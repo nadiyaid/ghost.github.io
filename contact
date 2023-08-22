@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Contact Us</title>
+    <link rel="icon" type="image/x-icon" href="http://localhost:2368/assets/img/Logo&#32;KSS&#32;Icon.svg?v=e8152c2b94" />
+
+    <!-- Icons-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+    <script src="https://code.iconify.design/2/2.1.2/iconify.min.js"></script>
+
+    <!-- Google fonts-->
+    <link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7COpen+Sans:400,700,800&display=swap" rel="stylesheet" type="text/css">
+
+    <!-- Animation library -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"/>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.12.3/tocbot.css">
+    
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="http://localhost:2368/assets/css/styles.css?v=e8152c2b94" rel="stylesheet" />
+    <link href="http://localhost:2368/assets/css/custom.css?v=e8152c2b94" rel="stylesheet" />
+
+    <link rel="icon" href="content/images/size/w256h256/format/png/2023/08/Logo-KSS-Icon-2.svg" type="image/png">
+    <link rel="canonical" href="contact">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    
+    <meta property="og:site_name" content="Klik Sinergi Solusi">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Contact Us">
+    <meta property="og:url" content="http://localhost:2368/contact/">
+    <meta property="article:published_time" content="2022-12-01T09:09:51.000Z">
+    <meta property="article:modified_time" content="2023-02-16T07:17:37.000Z">
+    <meta property="article:publisher" content="https://www.facebook.com/ghost">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Contact Us">
+    <meta name="twitter:url" content="http://localhost:2368/contact/">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="nadiyaid">
+    <meta name="twitter:site" content="@tryghost">
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Klik Sinergi Solusi",
+        "url": "http://localhost:2368/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "http://localhost:2368/content/images/2023/08/Logo-KSS-2.svg"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "nadiyaid",
+        "url": "http://localhost:2368/author/nadiyaid/",
+        "sameAs": []
+    },
+    "headline": "Contact Us",
+    "url": "http://localhost:2368/contact/",
+    "datePublished": "2022-12-01T09:09:51.000Z",
+    "dateModified": "2023-02-16T07:17:37.000Z",
+    "mainEntityOfPage": "http://localhost:2368/contact/"
+}
+    </script>
+
+    <meta name="generator" content="Ghost 5.58">
+    <link rel="alternate" type="application/rss+xml" title="Klik Sinergi Solusi" href="rss/index.html">
+    
+    <script defer src="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/sodo-search.min.js" data-key="a6cf7d740a64f0beb5a1488d4e" data-styles="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/main.css" data-sodo-search="http://localhost:2368/" crossorigin="anonymous"></script>
+    
+    <link href="http://localhost:2368/webmentions/receive/" rel="webmention">
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GNMBT2YFZX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GNMBT2YFZX');
+</script><style>:root {--ghost-accent-color: #ff7200;}</style>
+</head>
+
+<body id="page-top">
+
+    <div class="popup container">
+        <input type="checkbox" id="toggle"/>
+        <label class="button" for="toggle"> <i class="bi bi-chat"></i></label>
+        <nav class="nav mb-2">
+            <ul>
+                <p>Connect with us on your preferred platform and discover how we can help you achieve your goals. <strong>Contact us today!</strong></p>
+                <div class="d-grid">
+                    <a href="https://t.me/nengdesti14" class="btn btn-outline-primary mb-2" target="_blank"><i class="bi bi-telegram me-2"></i>Telegram</a>
+                    <a href="contact" class="btn btn-outline-primary" target="_blank"><i class="bi bi-envelope me-2"></i>E-mail</a>
+                </div>
+            </ul>
+        </nav>
+    </div>
+
+    
+<nav class="navbar navbar-expand-lg navbar-light fixed-top shadow" id="mainNav">
+    <div class="container px-lg-5">
+        <a class="navbar-brand" href="index.html">
+            <img src="content/images/2023/08/Logo-KSS-2.svg" alt="Klik Sinergi Solusi" width="100"></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
+            aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+            Menu
+            <i class="bi-list"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarScroll">
+            <ul class="navbar-nav me-auto ms-4 my-3 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 10rem;" >
+                <li class="nav-item"><a class="nav-link me-lg-3" href="about/index.html">About Us</a></li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link me-lg-3 dropdown-toggle" href="solution/index.html" id="navbarScrollingDropdown" >Solution</a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <span><img src="http://localhost:2368/assets/icon/Application&#32;Solution.png?v=e8152c2b94" alt="Application Solution icon"></span>
+                            <a href="application-solution.1" class="dropdown-item">Application Solution</a>
+                        </li>
+                        <li>
+                            <span><img src="http://localhost:2368/assets/icon/Big&#32;Data.png?v=e8152c2b94" alt="Big Data Solution icon"></span>
+                            <a href="big-data-solution.1" class="dropdown-item">Big Data Solution</a>
+                        </li>
+                        <li>
+                            <span><img src="http://localhost:2368/assets/icon/Cloud&#32;Services.png?v=e8152c2b94" alt="Infrastructure & Cloud Solution icon"></span>
+                            <a href="cloud-services-solution.1" class="dropdown-item">Infrastructure & Cloud Solution</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link me-lg-3 dropdown-toggle" id="navbarScrollingDropdown"  href="services/index.html">Services</a>
+                    <ul class="dropdown-menu">
+                        <li><span><img src="http://localhost:2368/assets/icon/Consultancy&#32;&amp;&#32;Consulting.png?v=e8152c2b94" alt="Consultancy Services icon"></span><a href="consultancy-services.1" class="dropdown-item">Consultancy Services</a></li>
+                        <li><span><img src="http://localhost:2368/assets/icon/Managed&#32;Services.png?v=e8152c2b94" alt="Managed Services icon"></span><a href="managed-services.1" class="dropdown-item">Managed Services</a></li>
+                        <li><span><img src="http://localhost:2368/assets/icon/Implementation&#32;Services.png?v=e8152c2b94" alt="Implementation Services icon"></span><a href="implementation-services.1" class="dropdown-item">Implementation Services</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item"><a class="nav-link me-lg-3" href="usecase/index.html">Use Case</a></li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link me-lg-3 dropdown-toggle" href="contact#" id="navbarScrollingDropdown"  href="http://localhost:2368/company/">Company</a>
+                    <ul class="dropdown-menu">
+                        <li><span><img src="http://localhost:2368/assets/icon/Partner.png?v=e8152c2b94" alt="Our Partners icon"></span><a href="partners/index.html" class="dropdown-item">Our Partners</a></li>
+                        <li><span><img src="http://localhost:2368/assets/icon/Insight.png?v=e8152c2b94" alt="Insight icon"></span><a href="insight/index.html" class="dropdown-item">Insight</a></li>
+                        <li><span><img src="http://localhost:2368/assets/icon/Careers.png?v=e8152c2b94" alt="Careers icon"></span><a href="career/index.html" class="dropdown-item">Careers</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <div class="dropdown-lang me-2">
+                <a class="d-flex btn btn-outline-secondary rounded">
+                    <i class="bi bi-translate" style="color: #ff7200; font-size: 16px; padding-right: 10px"></i>
+                    <span>Language</span>
+                    <i class="ms-2 bi bi-chevron-down"></i>
+                </a>
+                <div class="ct-language"> 
+                    <ul class="list-unstyled ct-language__dropdown">
+                        <li><a href="index.html">English</a></li>
+                        <li><a href="id">Indonesia</a></li>
+                    </ul>
+                </div>
+            </div>
+            <button class="btn btn-primary rounded px-3 mb-2 mb-lg-0" onclick="location.href='/contact/'">
+                <span class="d-flex align-items-center">
+                    <span class="small">Contact Us</span>
+                </span>
+            </button>
+        </div>
+    </div>
+</nav>
+
+    
+    
+
+<div class="py-5">
+    <div class="container px-lg-5 py-5">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-lg-5 order-lg-1">
+                <div class="mb-5 mb-lg-0">
+                    <h2 class="text-primary">Contact Us</h2>
+                    <div class="d-flex align-items-center">
+                        <p><span class="me-4 iconify" data-icon="mdi:envelope-outline" style="font-size: 2.5rem;"></span></p>
+                        <div class="lh-1 p-0 m-0">
+                            <p class="fs-5"><b>E-mail</b></p>
+                            <p class="fs-5">info@klik-ss.com</p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-center">
+                        <p><span class="me-4 iconify" data-icon="ph:phone" style="font-size: 2.5rem;"></span></p>
+                        <div class="lh-1 p-0 m-0">
+                            <p class="fs-5"><b>Phone</b></p>
+                            <p class="fs-5">+62 21 2127-9084</p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-center">
+                        <p><span class="me-4 iconify" data-icon="bi:geo-alt" style="font-size: 2.5rem;"></span></p>
+                        <div class="lh-1 p-0 m-0">
+                            <p class="fs-5"><b>Address</b></p>
+                            <p class="fs-5">Jln. Buncit Raya 40A, Kel. Duren Tiga, Jakarta Selatan. 12760</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 order-lg-0">
+                <img class="img-fluid" src="http://localhost:2368/assets/img/Illustration&#32;-&#32;Contact&#32;Us.png?v=e8152c2b94" alt="">
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="container px-lg-5">
+    <div class="text-center">
+        <h5 class="mb-4">TRUSTED BY TOP COMPANY IN THEIR FIELDS</h5>
+    </div>
+    <div class="row gx-5 align-items-center justify-content-center owl-carousel">
+        <div class="d-flex justify-content-center">
+            <div class="col-lg-8 text-center">
+                <p class="text-primary">Banking &amp; Financial Fields</p>
+                <div class="card no-style">
+                    <img class="img-fluid" src="http://localhost:2368/assets/img/Logo&#32;Banking.svg?v=e8152c2b94" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="d-flex justify-content-center">
+            <div class="col-lg-8 text-center">
+                <p class="text-primary text-center">Telco Industry Fields</p>
+                <div class="card no-style">
+                    <img class="img-fluid" src="http://localhost:2368/assets/img/Logo&#32;Telco.svg?v=e8152c2b94" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="d-flex justify-content-center">
+            <div class="col-lg-8 text-center">
+                <p class="text-primary text-center">Manufacture Fields</p>
+                <div class="card no-style">
+                    <img class="img-fluid" src="http://localhost:2368/assets/img/Logo&#32;Manufacture.svg?v=e8152c2b94" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="d-flex justify-content-center">
+            <div class="col-lg-8 text-center">
+                <p class="text-primary text-center">Food, Beverage &amp; Hospitality Fields</p>
+                <div class="card no-style">
+                    <img class="img-fluid" src="http://localhost:2368/assets/img/Logo&#32;Hospitality.svg?v=e8152c2b94" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="d-flex justify-content-center">
+            <div class="col-lg-8 text-center">
+                <p class="text-primary text-center">Government Fields</p>
+                <div class="card no-style">
+                    <img class="img-fluid" src="http://localhost:2368/assets/img/Logo&#32;Gov.svg?v=e8152c2b94" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>    
+    
+<section id="content" class="partner">
+    <div class="container px-lg-5 py-5">
+        <div class="row justify-content-center text-center mb-5">
+            <h3 class="col-lg-5">We&#x27;d love to hear from you!</h3>
+            <p class="col-lg-12">Fill up the form and our Team will get back to you within 24 hours</p>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-11">
+                <div class="container col-lg-7 col-sm-12 justify-content-center px-5 py-5 shadow-red">
+                    <form id="contactForm" action="https://formspree.io/f/xaykgdkw" method="post" class="needs-validation">
+                        <div class="input-group mb-3">
+                            <input class="form-control" type="text" placeholder="Your name" id="name" name="Name" autocomplete="off" required/>
+                            <div class="invalid-feedback text-lg-start">A name is required.</div>
+                        </div>
+                        <div class="input-group mb-3">
+                            <input class="form-control" id="email" type="email" placeholder="Your work e-mail" name="Email" autocomplete="off" required=""/>
+                            <div class="invalid-feedback text-lg-start">An email is required.</div>
+                            <div class="invalid-feedback text-lg-start">Email is not valid.</div>
+                        </div>
+                        <div class="input-group mb-3">
+                            <input class="form-control" id="phone" type="tel" placeholder="Your phone number" name="Phone Number" autocomplete="off" required=""/>
+                            <div class="invalid-feedback text-lg-start">A phone number is required.</div>
+                        </div>
+                        <div class="input-group mb-3">
+                            <input class="form-control" id="company" type="text" placeholder="Company" name="Company" autocomplete="off" required=""/>
+                            <div class="invalid-feedback text-lg-start">Company name is required</div>
+                        </div>
+                        <div class="mb-3">
+                            <select class="form-select" name="What services are you interested in?" id="option" aria-label="Default select example" required>
+                                <option value="" selected disabled>What services are you interested in?</option>
+                                <option value="Application Solution">Application Solution</option>
+                                <option value="Big Data Solution">Big Data Solution</option>
+                                <option value="Consultancy Services">Consultancy Services</option>
+                                <option value="Managed Services">Managed Services</option>
+                                <option value="Implementation Services">Implementation Services</option>
+                            </select>
+                        </div>
+                        <input type="hidden" name="_subject" id="email-subject" value="Contact Form KSS">
+                        <div class="text-center mt-5">
+                            <button class="btn btn-primary rounded fs-6 py-2 px-5" type="submit" id="submitButton">Submit</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>    
+<footer class="bg-dark text-white">
+    <div class="container px-lg-5 pt-5 pb-4">
+        <div class="row justify-content-between">
+            <div class="col">
+                <div class="content">
+                    <img class="img-fluid mb-3" src="http://localhost:2368/assets/img/Logo&#32;KSS&#32;Footer.png?v=e8152c2b94" alt="" />
+                    <p class="lh-1">Copyright &copy; 2022</p>
+                    <p class="lh-1">Klik Sinergi Solusi</p>
+                    <p class="lh-1"><b>All right reserved</b></p>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="content text-end">
+                    <p><b>Contact Us</b></p>
+                    <ul class="list-unstyled">
+                        <li>+62 21 2127 9084 <span class="ms-2 iconify" data-icon="ri:phone-fill" style="font-size:1.5rem;"></span></li>
+                        <li>info@klik-ss.com <span class="ms-2 iconify" data-icon="ri:mail-fill" style="font-size:1.5rem;"></span></li>
+                        <div class="d-flex">
+                            <li>Jl. Buncit Raya No. 40A, Kel. Duren Tiga, Jakarta Selatan | 12760</li>
+                            <li><span class="ms-2 iconify" data-icon="ri:map-pin-2-fill" style="font-size: 1.5rem;"></span></li>
+                        </div>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+    <!-- Bootstrap core JS-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.js"
+        integrity="sha256-HwWONEZrpuoh951cQD1ov2HUK5zA5DwJ1DNUXaM6FsY=" crossorigin="anonymous"></script>
+
+    <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
+
+    <!-- Owl Carousel JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!-- Core theme JS-->
+    <script src="http://localhost:2368/assets/js/scripts.js?v=e8152c2b94"></script>
+    
+    <!-- Animation library JS -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <script>
+        AOS.init();
+    </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.12.3/tocbot.min.js"></script>
+
+
+    <script>
+        function openCity(evt, cityName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(cityName).style.display = "block";
+        evt.currentTarget.className += " active";
+        }
+
+        // Get the element with id="defaultOpen" and click on it
+        document.getElementById("defaultOpen").click();
+    </script>
+
+    
+</body>
+
+</html>
